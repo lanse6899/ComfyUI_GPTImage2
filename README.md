@@ -57,6 +57,9 @@
 }
 ```
 
+KEY地址：
+https://api.bltcy.ai/
+
 ## 常见问题
 
 - **生成慢**：降低 quality 或减小 size，网络不稳定也会影响速度
