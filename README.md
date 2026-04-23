@@ -23,7 +23,7 @@
 | prompt | 字符串 | — | 图像描述 |
 | model | gpt-image-2, gpt-image-1.5, gpt-image-1 | gpt-image-2 | 模型 |
 | quality | low, medium, high, auto | medium | 质量 |
-| size | 1024x1024, 1536x1024, 1024x1536, auto | 1024x1024 | 分辨率 |
+| size | auto
 | n | 1-10 | 1 | 生成数量 |
 | seed | 整数 | -1 | 随机种子 |
 | output_format | png, jpeg, webp | png | 输出格式 |
@@ -41,7 +41,7 @@
 | model | gpt-image-2, gpt-image-1.5, gpt-image-1 | gpt-image-2 | 模型 |
 | input_fidelity | low, high | high | 保持原图程度 |
 | quality | low, medium, high, auto | medium | 质量 |
-| size | 1024x1024, 1536x1024, 1024x1536, auto | 1024x1024 | 分辨率 |
+| size |  auto 
 | n | 1-10 | 1 | 生成数量 |
 | seed | 整数 | -1 | 随机种子 |
 | output_format | png, jpeg, webp | png | 输出格式 |
