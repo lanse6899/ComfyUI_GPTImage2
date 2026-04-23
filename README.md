@@ -1,6 +1,7 @@
 # ComfyUI_GPTImage2
 
 通过云端 API 集成 gpt-image-2 图像生成模型的 ComfyUI 节点。
+<img width="759" height="732" alt="ScreenShot_2026-04-23_083105_787" src="https://github.com/user-attachments/assets/71da69ea-e199-4568-970e-86dd62590d84" />
 
 ## 安装
 
